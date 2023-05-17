@@ -893,7 +893,7 @@
         "operationId": "Models_List",
         "description": "List Models.",
         "x-ms-examples": {
-          "ListCommitmentTiers": {
+          "ListModels": {
             "$ref": "./examples/ListModels.json"
           }
         },
@@ -2524,7 +2524,7 @@
         },
         "expiration": {
           "type": "string",
-          "format": "datetime",
+          "format": "date-time",
           "description": "The datetime of expiration of the AbusePenalty."
         }
       }
@@ -3536,6 +3536,10 @@
           "type": "string",
           "description": "The name of RAI policy."
         },
+        "callRateLimit": {
+          "readOnly": true,
+          "$ref": "#/definitions/CallRateLimit"
+        },
         "rateLimits": {
           "readOnly": true,
           "type": "array",
@@ -3940,7 +3944,7 @@
         },
         "deprecationDate": {
           "type": "string",
-          "format": "datetime",
+          "format": "date-time",
           "description": "The datetime of deprecation of the model SKU."
         },
         "capacity": {
