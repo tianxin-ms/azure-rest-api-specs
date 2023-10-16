@@ -69,6 +69,7 @@ agri
 ahub
 ai
 aiapi
+aitoolchainoperator
 akamai
 aksendpoint
 alertfeedback
@@ -106,6 +107,7 @@ antimeridian
 antispam
 anybuild
 anyofany
+aoai
 aoairesource
 aods
 aosm
@@ -641,6 +643,7 @@ datalake
 datalakeanalytics
 datalakestore
 datamanagement
+datamap
 datamasking
 datamigration
 datamodel
@@ -648,6 +651,7 @@ datapath
 dataplane
 datapoint
 datapoints
+datareferences
 datas
 dataschema
 dataset
@@ -965,6 +969,7 @@ findsquare
 finetune
 finetunes
 firmwares
+flac
 flexera
 flink
 flowlet
@@ -1329,6 +1334,7 @@ kafkarest
 kaliningrad
 kangri
 karachay
+karpenter
 kashubian
 kata
 kbid
@@ -1641,6 +1647,7 @@ moodle
 mooncake
 mountainview
 movere
+mpga
 mpls
 mpns
 mran
@@ -1746,6 +1753,7 @@ networkacls
 networkinterfaces
 networkruleset
 networkrulesets
+networksecurityperimeter
 networksettings
 networkstatus
 networktraversal
@@ -2718,6 +2726,7 @@ termtemplatedef
 testall
 testallroutes
 testbase
+testconnection
 testfailover
 testnew
 testnewroute
@@ -3746,3 +3755,4 @@ totalCPUMHz
 docon
 DialOut
 vectorizers
+Entra
